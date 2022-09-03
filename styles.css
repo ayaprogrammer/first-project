@@ -1,0 +1,162 @@
+body {}
+
+#title {
+  background-color: #ff4c68;
+  padding: 3% 15%;
+  color: #fff;
+}
+
+.h1title {
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  font-weight: 900;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: Montserrat;
+  font-weight: bold;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+#tin {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding: 0 0 4.5rem 0;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+  position: relative;
+  right: 25px;
+}
+
+/* Download buttons */
+.download-button {
+  margin: 5% 3% 5%;
+}
+
+/* Title image */
+.titleimage {
+  width: 20%;
+  transform: rotate(25deg);
+  position: absolute;
+  z-index: 0;
+}
+
+/* Features */
+#features {
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+
+.features-box {
+  text-align: center;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 2rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+/* Testimonials section */
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+em {
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+#pricing {
+  padding: 60px;
+  text-align: center;
+}
+
+.btnl {
+  width: 90%;
+}
+
+#cta {
+  background-color: #ef8172;
+  color: #fff;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.h3cat {
+  font-family: "Montserrat";
+  width: 900;
+  line-height: 1.5;
+  font-size: 3.5rem;
+}
+
+#footer {
+  padding: 7% 15%;
+  background-color: #fff;
+  text-align: center;
+}
+.iconfoot{
+  margin: 20px 10px;
+}
+.fab{
+  font-weight: 400px;
+}
+.fa{
+  font-weight: 900px;
+}
